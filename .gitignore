@@ -1,9 +1,6 @@
 __pycache__/
 *.pyc
 temp_upload.jpg
-
-test_prediction.py
-test_model_training.py
-test_upload.py
-data_loader.py
-main.py
+*.h5
+.DS_Store
+Thumbs.db
